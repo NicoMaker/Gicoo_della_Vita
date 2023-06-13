@@ -1,0 +1,15 @@
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\bin\Debug\net7.0\Gioco della Vita.exe
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\bin\Debug\net7.0\Gioco della Vita.deps.json
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\bin\Debug\net7.0\Gioco della Vita.runtimeconfig.json
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\bin\Debug\net7.0\Gioco della Vita.dll
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\bin\Debug\net7.0\Gioco della Vita.pdb
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.AssemblyInfo.cs
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.dll
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\refint\Gioco della Vita.dll
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.pdb
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\Gioco della Vita.genruntimeconfig.cache
+D:\Corso ITS IIOT\Progetti C#\Framework Dotnet\Gioco della Vita\Gioco della Vita\Gioco della Vita\obj\Debug\net7.0\ref\Gioco della Vita.dll
